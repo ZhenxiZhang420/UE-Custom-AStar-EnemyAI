@@ -12,7 +12,9 @@ Features include custom pathfinding, runtime node editing tools, patrol/chase/se
 
 ## Node Graph Visualization
 
-[Insert Image / GIF Here]
+<p align="center">
+  <img src="Assets/NodeGraph.gif" width="850"/>
+</p>
 
 _Custom A* node graph and neighbor connections_
 
@@ -20,7 +22,9 @@ _Custom A* node graph and neighbor connections_
 
 ## Enemy Patrol
 
-[Insert GIF Here]
+<p align="center">
+  <img src="Assets/Patrol.gif" width="850"/>
+</p>
 
 _Enemy patrol behavior using custom pathfinding_
 
@@ -28,7 +32,9 @@ _Enemy patrol behavior using custom pathfinding_
 
 ## Detect → Chase → Attack
 
-[Insert GIF Here]
+<p align="center">
+  <img src="Assets/Chase.gif" width="850"/>
+</p>
 
 _Enemy detects player and enters combat behavior_
 
@@ -36,7 +42,9 @@ _Enemy detects player and enters combat behavior_
 
 ## Search Last Known Position
 
-[Insert GIF Here]
+<p align="center">
+  <img src="Assets/Search.gif" width="850"/>
+</p>
 
 _Enemy searches player's last known position after losing sight_
 
@@ -44,7 +52,9 @@ _Enemy searches player's last known position after losing sight_
 
 ## Attack Warning Visualization
 
-[Insert GIF Here]
+<p align="center">
+  <img src="Assets/Attack.gif" width="850"/>
+</p>
 
 _Attack prediction using decal indicators_
 
@@ -226,6 +236,9 @@ Planned upgrades:
 
 ---
 
-# Author
+## Contact
 
-ZhenXi Zhang
+[LinkedIn](https://www.linkedin.com/in/zhenxizhang0420/)
+
+Email:
+zhenxizhang420@gmail.com
