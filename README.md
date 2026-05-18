@@ -40,6 +40,16 @@ _Enemy detects player and enters combat behavior_
 
 ---
 
+## Dynamic Path Updating
+
+<p align="center">
+  <img src="Assets/Attack.gif" width="850"/>
+</p>
+
+_Enemy continuously recalculates and updates paths while chasing a moving player target._
+
+---
+
 ## Search Last Known Position
 
 <p align="center">
@@ -47,16 +57,6 @@ _Enemy detects player and enters combat behavior_
 </p>
 
 _Enemy searches player's last known position after losing sight_
-
----
-
-## Attack Warning Visualization
-
-<p align="center">
-  <img src="Assets/Attack.gif" width="850"/>
-</p>
-
-_Attack prediction using decal indicators_
 
 ---
 
